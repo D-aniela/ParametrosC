@@ -1,0 +1,16 @@
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.exe
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.deps.json
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.runtimeconfig.json
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.runtimeconfig.dev.json
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.dll
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\EmpleadoActividad.pdb
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\CsQuery.dll
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.AssemblyInfoInputs.cache
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.AssemblyInfo.cs
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.csproj.CoreCompileInputs.cache
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.csproj.CopyComplete
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.dll
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.pdb
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.genruntimeconfig.cache
+C:\Users\Codellege\Documents\Programacion .NET\EmpleadoActividad\EmpleadoActividad\obj\Debug\netcoreapp3.1\EmpleadoActividad.csprojAssemblyReference.cache
